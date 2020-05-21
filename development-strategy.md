@@ -23,13 +23,13 @@ Short description of the project:
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. \_\_
+## 1. User Story: HTML Structure
 
-**full user story description**
+**As a visitor I want to see the structure of the web page**
 
 ### Repo
 
-what branch(es) did you work on?
+This user story was developed on a branch called `html structure`?
 
 ### HTML
 
