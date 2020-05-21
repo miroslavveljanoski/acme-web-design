@@ -1,20 +1,21 @@
 # Development Strategy
 
-> `name-of-project`
+> `acme-web-design`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+Short description of the project:
+
+- This project is about learning HTML, CSS and responsive design and how to use git branches when you work on different steps in your development, and in the same time practicing different git commands. With this project you will also learn how to write development strategy for your project and also a README file.
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
+
 ![wireframe]()
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+**A User can see my initial repository and live demo**
 
 ### Repo
 
@@ -22,9 +23,9 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. \_\_
 
-__full user story description__
+**full user story description**
 
 ### Repo
 
