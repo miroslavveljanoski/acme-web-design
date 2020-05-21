@@ -29,21 +29,31 @@ Short description of the project:
 
 ### Repo
 
-This user story was developed on a branch called `html structure`?
+This user story was developed on a branch called `html structure`
 
 ### HTML
 
-what did you change in the HTML and why?
+Write the HTML structure of the page with using HTML semantic elements?
 
 ### CSS
 
-what did you change in the CSS and why?
+There is no styling yet in this step?
 
-## 2. ...
+## 2. User Story: Styling Header
 
-...
+**As a visitor I want to see the style of the header**
 
-...
+### Repo
+
+This user story was developed on a branch called `header`
+
+### HTML
+
+There is no HTML in this step
+
+### CSS
+
+General styling of the body, the header and navigation menu
 
 ## Finishing Touches
 
