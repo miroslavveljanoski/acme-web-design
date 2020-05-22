@@ -151,6 +151,22 @@ Making new file in the page - Services
 
 Styling the Services file
 
+## 9. User Story: Making the Website responsive
+
+**As a visitor I want to see a responsive website**
+
+### Repo
+
+This user story was developed on a branch called `responsive-design`
+
+### HTML
+
+There is no big changes in the HTML file in this step
+
+### CSS
+
+Add media queries in order to make the website responsive
+
 ## Finishing Touches
 
 - Write final, complete README:
