@@ -55,6 +55,22 @@ There is no big changes in the HTML file in this step
 
 General styling of the body, the header and navigation menu
 
+## 3. User Story: Styling Showcase
+
+**As a visitor I want to see the style of the showcase**
+
+### Repo
+
+This user story was developed on a branch called `showcase`
+
+### HTML
+
+There is no big changes in the HTML file in this step
+
+### CSS
+
+Styling the showcase in the page
+
 ## Finishing Touches
 
 - Write final, complete README:
