@@ -103,6 +103,22 @@ There is no big changes in the HTML file in this step
 
 Styling the boxes in the page
 
+## 6. User Story: Styling Footer
+
+**As a visitor I want to see the style of the footer**
+
+### Repo
+
+This user story was developed on a branch called `footer`
+
+### HTML
+
+There is no big changes in the HTML file in this step
+
+### CSS
+
+Styling the footer in the page
+
 ## Finishing Touches
 
 - Write final, complete README:

@@ -127,3 +127,12 @@ header a:hover {
 #boxes .box img {
   width: 90px;
 }
+
+/* Footer */
+footer {
+  background-color: #e8491d;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+}
