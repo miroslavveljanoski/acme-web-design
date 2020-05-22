@@ -19,6 +19,14 @@ ul {
   padding: 0;
 }
 
+.button_1 {
+  background-color: #e8491d;
+  color: #fff;
+  border: none;
+  height: 38px;
+  padding: 0 20px 0 20px;
+}
+
 /* Header */
 header {
   background-color: #35424a;
@@ -80,4 +88,26 @@ header a:hover {
 
 #showcase p {
   font-size: 20px;
+}
+
+/* Newsletter */
+#newsletter {
+  background-color: #35424a;
+  color: #fff;
+  padding: 15px;
+}
+
+#newsletter h1 {
+  float: left;
+}
+
+#newsletter form {
+  float: right;
+  margin-top: 20px;
+}
+
+#newsletter input[type="email"] {
+  padding: 4px;
+  height: 25px;
+  width: 250px;
 }

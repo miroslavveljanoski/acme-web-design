@@ -71,6 +71,22 @@ There is no big changes in the HTML file in this step
 
 Styling the showcase in the page
 
+## 4. User Story: Styling Newsletter
+
+**As a visitor I want to see the style of the newsletter**
+
+### Repo
+
+This user story was developed on a branch called `newsletter`
+
+### HTML
+
+There is no big changes in the HTML file in this step
+
+### CSS
+
+Styling the newsletter in the page
+
 ## Finishing Touches
 
 - Write final, complete README:
