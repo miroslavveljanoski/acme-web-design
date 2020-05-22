@@ -129,11 +129,27 @@ This user story was developed on a branch called `about`
 
 ### HTML
 
-Makingn ew file in the page - About
+Making new file in the page - About
 
 ### CSS
 
 Styling the About file
+
+## 8. User Story: Making the "Services" file in the page
+
+**As a visitor I want to see the Services file in the page**
+
+### Repo
+
+This user story was developed on a branch called `services`
+
+### HTML
+
+Making new file in the page - Services
+
+### CSS
+
+Styling the Services file
 
 ## Finishing Touches
 
