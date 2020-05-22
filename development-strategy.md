@@ -87,6 +87,22 @@ There is no big changes in the HTML file in this step
 
 Styling the newsletter in the page
 
+## 5. User Story: Styling Boxes
+
+**As a visitor I want to see the style of the boxes**
+
+### Repo
+
+This user story was developed on a branch called `boxes`
+
+### HTML
+
+There is no big changes in the HTML file in this step
+
+### CSS
+
+Styling the boxes in the page
+
 ## Finishing Touches
 
 - Write final, complete README:
