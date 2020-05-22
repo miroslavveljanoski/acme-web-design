@@ -2,16 +2,18 @@
 
 > `acme-web-design`
 
-Short description of the project:
+> Short description of the project:
 
-- This project is about learning HTML, CSS and responsive design and how to use git branches when you work on different steps in your development, and in the same time practicing different git commands. With this project you will also learn how to write development strategy for your project and also a README file.
+This project is about learning how to make a website only with _HTML_ and _CSS_. You will also learn how to make a _responsive design_ on your website using _media queries_.
+
+This project is made using GIT version control system. Every different step in the project is made on separate branch.
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
 
-![wireframe]()
+![wireframe](./img/wireframe.png)
 
 ## 0. Set-Up
 
@@ -168,6 +170,8 @@ There is no big changes in the HTML file in this step
 Add media queries in order to make the website responsive
 
 ## Finishing Touches
+
+This user story was developed on a branch called `finishing-touches`
 
 - Write final, complete README:
   - [makeareadme.com](https://www.makeareadme.com/)
