@@ -49,7 +49,7 @@ This user story was developed on a branch called `header`
 
 ### HTML
 
-There is no HTML in this step
+There is no big changes in the HTML file in this step
 
 ### CSS
 
