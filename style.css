@@ -135,6 +135,7 @@ header a:hover {
   width: 90px;
 }
 
+/* Styling for the file About */
 /* Sidebar */
 aside#sidebar {
   float: right;
@@ -146,6 +147,21 @@ aside#sidebar {
 article#main-col {
   float: left;
   width: 65%;
+}
+
+/* Styling for the file Services */
+ul#services li {
+  list-style: none;
+  background-color: #e6e6e6;
+  padding: 20px;
+  margin-bottom: 5px;
+  border: 1px solid #cccccc;
+}
+
+aside#sidebar .quote input,
+aside#sidebar .quote textarea {
+  width: 90%;
+  padding: 5px;
 }
 
 /* Footer */
