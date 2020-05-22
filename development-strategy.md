@@ -119,6 +119,22 @@ There is no big changes in the HTML file in this step
 
 Styling the footer in the page
 
+## 7. User Story: Making the "About" file in the page
+
+**As a visitor I want to see the About file in the page**
+
+### Repo
+
+This user story was developed on a branch called `about`
+
+### HTML
+
+Makingn ew file in the page - About
+
+### CSS
+
+Styling the About file
+
 ## Finishing Touches
 
 - Write final, complete README:
