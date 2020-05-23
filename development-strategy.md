@@ -43,7 +43,7 @@ There is no styling yet in this step?
 
 ## 2. User Story: Styling Header
 
-**As a visitor I want to see the style of the header**
+**As a visitor I want to see the logo of the page and the navigation menu**
 
 ### Repo
 
@@ -59,7 +59,7 @@ General styling of the body, the header and navigation menu
 
 ## 3. User Story: Styling Showcase
 
-**As a visitor I want to see the style of the showcase**
+**As a visitor I want to see how the showcase looks like**
 
 ### Repo
 
@@ -75,7 +75,7 @@ Styling the showcase in the page
 
 ## 4. User Story: Styling Newsletter
 
-**As a visitor I want to see the style of the newsletter**
+**As a visitor I want to see the the newsletter looks like\***
 
 ### Repo
 
@@ -91,7 +91,7 @@ Styling the newsletter in the page
 
 ## 5. User Story: Styling Boxes
 
-**As a visitor I want to see the style of the boxes**
+**As a visitor I want to see how the boxes looks like in the page**
 
 ### Repo
 
@@ -107,7 +107,7 @@ Styling the boxes in the page
 
 ## 6. User Story: Styling Footer
 
-**As a visitor I want to see the style of the footer**
+**As a visitor I want to see the information for copyrights in the footer**
 
 ### Repo
 
